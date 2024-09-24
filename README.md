@@ -2,7 +2,7 @@
 
 # CPP to Python Syntax
 
-<img src="https://cdn.discordapp.com/attachments/1158005192592203806/1174600111855251496/IMG_4594.png" alt="logo" width="45%" />
+<img src="https://github.com/user-attachments/assets/93019bd7-ff8e-44da-929f-c57129967723" alt="logo" width="45%" />
 <br> <br>
 
 ## Reformatting cpp code to looks like python code
